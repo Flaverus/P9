@@ -27,8 +27,10 @@
 }
 
 // Formats references to patterns in WU or other pattern languages
-#let pat-ref(source, name) = [
-  #source: #smallcaps[#name]
+#let pat-ref(source, name, bib: none) = [
+  #source: #smallcaps[#name]#if bib != none [
+    #(if type(bib) == label { cite(bib) } else { bib })
+  ]
 ]
 
 // Badge to highlight e.g. anti-patterns
