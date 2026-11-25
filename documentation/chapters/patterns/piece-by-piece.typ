@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Piece by Piece],
-  stars: 0,
+  stars: 2,
   description: (
     [Kognitiver Load bei Formularen reduzieren und grössere Formulare in kleinere Brocken in mehreren Schritten zu unterteilen.],
     [Für "Experten"-User hinderlich anderes Portal oder alternative Möglichkeiten bereitstellen?],

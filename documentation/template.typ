@@ -31,10 +31,28 @@
   #source: #smallcaps[#name]
 ]
 
+// Badge to highlight e.g. anti-patterns
+#let pattern-badge(label) = {
+  box(
+    fill: rgb("#fef2f2"),
+    stroke: 0.6pt + rgb("#dc2626"),
+    radius: 3pt,
+    inset: (x: 6pt, y: 2.5pt),
+    text(
+      font: "Roboto Mono",
+      size: 9pt,
+      weight: "medium",
+      fill: rgb("#991b1b"),
+      label,
+    ),
+  )
+}
+
 #let pattern-page(
   title: "",
   stars: 0,
-  level: 2,
+  badge: none,
+  level: 3,
   description: (),
   related-patterns: (),
   wcag-intro: none,
@@ -42,11 +60,12 @@
 ) = {
   // Title with star rating directly next to it
   grid(
-    columns: (auto, auto),
-    column-gutter: 0.65em,
-    align: horizon,
+    columns: if badge != none { (auto, auto, auto) } else { (auto, auto) },
+    column-gutter: 0.7em,
+    align: left + horizon,
     heading(level: level)[#title],
-    star-rating(stars),
+    move(dy: 1pt, star-rating(stars)),
+    ..if badge != none { (move(dy: 1pt, pattern-badge(badge)),) } else { () },
   )
   v(-0.4em)
   line(length: 100%, stroke: 0.5pt + rgb("#cbd5e1"))

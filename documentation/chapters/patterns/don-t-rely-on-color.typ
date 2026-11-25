@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Don't Rely on Color],
-  stars: 0,
+  stars: 1,
   description: (
     [Farbcodierungen niemals als alleinigen Informationsträger nutzen, sondern konsequent mit räumlichen Metaphern, Formen, Icons oder Textlabels kombinieren. Beispielsweise wird bei einem Ampelsystem (Rot, Orange, Grün) zusätzlich die räumliche Position und Reihenfolge (Oben, Mitte, Unten) sowie ein eindeutiges Symbol (Kreuz, Ausrufezeichen, Häkchen) eingesetzt, sodass Statusinformationen auch bei Farbenblindheit oder im High-Contrast-Mode unmissverständlich bleiben.],
   ),

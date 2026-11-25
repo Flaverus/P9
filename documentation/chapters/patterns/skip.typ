@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Skip],
-  stars: 0,
+  stars: 2,
   description: (
     [Lass den Keyboard-Only Nutzer grosse Listen überspringen (Navigation, Inhaltsverzeichnis, …) z.B. mittels Anchor Links auf der Seite.],
   ),

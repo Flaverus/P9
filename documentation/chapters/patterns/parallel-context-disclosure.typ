@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Parallel Context Disclosure],
-  stars: 0,
+  stars: 2,
   description: (
     [Nicht visueller Kontext für Accessibility Tree bereitstellen, die visuell nicht ersichtlich sind, um strukturelle Eigenschaften oder Ergänzungen zu kommunizieren.],
     [Beispiel Währung Label bei Preis von Digitec.],

@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Context Departure Warning],
-  stars: 0,
+  stars: 1,
   description: (
     [Sowohl visuell mittels Icons wie auch für textuell für Screenreader Links kennzeichnen, die auf externe Ressourcen Zeigen und einen Kontextwechsel mit sich bringen.],
     [Beispiel Digitec ("normaler" Link, Anchor link auf derselben Seite, externer Link)],

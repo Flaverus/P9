@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Feedback],
-  stars: 0,
+  stars: 2,
   description: (
     [Visuelles Feedback z.B. nach dem erfolgreichen Absenden eines Formulars wie ein Toast oder bei invaliden Eingaben/Fehlern soll das Feedback auch für Screenreader User angekündigt werden (Live-Region verwenden)],
   ),

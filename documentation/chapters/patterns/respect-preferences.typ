@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Respect Preferences],
-  stars: 0,
+  stars: 1,
   description: (
     [Auf Systemeinstellungen der Benutzer mittels `@media` Queries reagieren und die Präferenz berücksichtigen (Jedoch eine opt-out Möglichkeit bereitstellen).],
     [Möglichkeit die Präferenzen auftrittsabhängig ändern zu können und dies bei wiederkehrenden Benutzern zu merken],

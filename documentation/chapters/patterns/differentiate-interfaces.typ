@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Differentiate Interfaces],
-  stars: 0,
+  stars: 2,
   description: (
     [Denn DOM so gestalten, dass er inhaltlich repräsentativ für Screenreader aufgebaut ist und mittels CSS das "Eye-Candy" für die anderen Benutzer hinzufügen.],
     [Wichtig ist es jedoch, dass man die Visuelle Ansicht nicht komplett auf den Kopf kehrt.],

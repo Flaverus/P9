@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Nativ instead of Naive],
-  stars: 0,
+  stars: 3,
   description: (
     [Wo möglich HTML5 Komponenten und deren Native Feature einsetzen und nutzen, an Stelle von `<div>` Custom Component Gebasteleien die mit möglichst viel ARIA-Attributen und Rollen übersäht sind.],
     [Browser sind auf diese Komponenten optimiert und gewährleisten Sondermodi wie "Reading view" zuverlässig und Seiten sind so Zukunftssicher.],

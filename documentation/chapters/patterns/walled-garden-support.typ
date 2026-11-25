@@ -2,7 +2,8 @@
 
 #pattern-page(
   title: [Walled Garden Support],
-  stars: 0,
+  stars: 3,
+  badge: "Anti-Pattern",
   description: (
     [Unternehmen tendieren dazu direkte Kontaktmöglichkeiten von ihren Webseiten zu entfernen und gegen Chatbots zu ersetzen, was es unnötig erschwert bei Problemen kompetente Hilfe zu erhalten und Kunden frustriert und die PR schwächt.],
   ),

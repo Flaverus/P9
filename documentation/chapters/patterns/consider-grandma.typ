@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [Consider Grandma],
-  stars: 0,
+  stars: 1,
   description: (
     [Eine Standard-Persona in allen Projekten nutzen, die eine ältere Person repräsentiert und visuelle, motorische und kognitive Einschränkungen hat.],
     [Deckt nicht alles ab, aber stellt gute Basis bereit.],

@@ -2,7 +2,7 @@
 
 #pattern-page(
   title: [A11y-DoD],
-  stars: 0,
+  stars: 2,
   description: (
     [Frage: Welche Tests sind nicht automatisierbar? Diese in Form einer Checkliste festhalten und regelmässig (Bei grösseren Releases oder je Quartal?) durchspielen.],
   ),
