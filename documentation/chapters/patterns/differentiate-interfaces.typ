@@ -9,7 +9,7 @@
     [Beispiele sind Digitec/Galaxus und CAS Webseite von Dierk],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 1.3.2 Meaningful Sequence (Level A)],
     [Success Criterion 2.4.3 Focus Order (Level A)],

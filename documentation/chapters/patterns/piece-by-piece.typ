@@ -10,6 +10,6 @@
   related-patterns: (
     pat-ref("WU", "One Form Per Page"),
   ),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (),
 )

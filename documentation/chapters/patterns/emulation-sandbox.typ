@@ -8,6 +8,6 @@
     [Was sind die nötigen Mittel (Hard- und Software) um jegliche Szenarien abdecken zu können?],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (),
 )

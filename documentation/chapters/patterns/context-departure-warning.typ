@@ -8,7 +8,7 @@
     [Beispiel Digitec ("normaler" Link, Anchor link auf derselben Seite, externer Link)],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 3.2.5 Change on Request (Level AAA)],
     [Success Criterion 2.4.4 Link Purpose (In Context) (Level A)],

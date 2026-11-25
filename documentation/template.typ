@@ -50,6 +50,12 @@
   )
 }
 
+#let pattern-section(title, body) = {
+  text(size: 1.1em, weight: "semibold")[#title]
+  linebreak()
+  body
+}
+
 #let pattern-page(
   title: "",
   stars: 0,

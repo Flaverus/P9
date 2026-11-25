@@ -9,7 +9,7 @@
     [Möglichkeit visuell "Versteckte" Accessibility Inhalte trotzdem anzeigen zu lassen?],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 1.3.1 Info and Relationships (Level A)],
   ),

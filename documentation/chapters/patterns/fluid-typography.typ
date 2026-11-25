@@ -9,7 +9,7 @@
     [Variation der Schrift Grösse abhängig vom Kontext? (Content oder "Statische Leseinhalt-Seite?)],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 1.4.4 Resize Text (Level AA)],
     [Success Criterion 1.4.12 Text Spacing (Level AA)],

@@ -97,7 +97,11 @@
 #counter(page).update(1)
 
 // --- Chapters ---
+#include "chapters/abstract.typ"
+#include "chapters/introduction.typ"
 #include "chapters/patterns.typ"
+#include "chapters/discussion.typ"
+#include "chapters/conclusion.typ"
 
 // --- Appendix ---
 // Bibliography usually isn't numbered
@@ -145,7 +149,7 @@ I hereby declare that any individual work submitted for assessment is entirely t
   columns: (1fr, 1fr),
   gutter: 2cm,
   [
-    Windisch, 14. July 2026 \
+    Windisch, [TBD] \
     #text(size: 9pt, fill: gray)[Location / Date]
   ],
   [

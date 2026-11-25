@@ -8,7 +8,7 @@
     [Frage bezüglich Fokus Handling Popover API?],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 2.2.1 Timing Adjustable (Level A)],
     [Success Criterion 2.2.3 No Timing (Level AAA)],

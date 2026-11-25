@@ -10,7 +10,7 @@
   related-patterns: (
     pat-ref("WU", "Return Visitors"),
   ),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 1.4.3 Contrast (Minimum) (Level AA)],
     [Success Criterion 1.4.6 Contrast (Enhanced) (Level AAA)],

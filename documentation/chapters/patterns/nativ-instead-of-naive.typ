@@ -8,7 +8,7 @@
     [Browser sind auf diese Komponenten optimiert und gewährleisten Sondermodi wie "Reading view" zuverlässig und Seiten sind so Zukunftssicher.],
   ),
   related-patterns: (),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 4.1.2 Name, Role, Value (Level A)],
     [Guideline 4.1 Compatible],

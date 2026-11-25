@@ -9,7 +9,7 @@
   related-patterns: (
     pat-ref("WU", "Support Color With Spatial Metaphor"),
   ),
-  wcag-intro: "Hat einen Bezug auf folgende WCAG-Kriterien",
+  wcag-intro: "Related WCAG success criteria",
   wcag: (
     [Success Criterion 1.4.1 Use of Color (Level A)],
     [Success Criterion 1.3.3 Sensory Characteristics (Level A)],
