@@ -1,0 +1,25 @@
+= Patterns
+
+#include "patterns/fluid-typography.typ"
+#include "patterns/context-independent-labels.typ"
+#include "patterns/skip.typ"
+#include "patterns/feedback.typ"
+#include "patterns/a11y-dod.typ"
+#include "patterns/words-before-icons.typ"
+#include "patterns/user-paced-notification-queue.typ"
+#include "patterns/emulation-sandbox.typ"
+#include "patterns/parallel-context-disclosure.typ"
+#include "patterns/context-departure-warning.typ"
+#include "patterns/accessibility-champion.typ"
+#include "patterns/consider-grandma.typ"
+#include "patterns/walled-garden-support.typ"
+#include "patterns/respect-preferences.typ"
+#include "patterns/piece-by-piece.typ"
+#include "patterns/differentiate-interfaces.typ"
+#include "patterns/nativ-instead-of-naive.typ"
+#include "patterns/decoupled-target-size.typ"
+#include "patterns/remember-me.typ"
+#include "patterns/informative-title-orientation.typ"
+#include "patterns/don-t-rely-on-color.typ"
+
+#pagebreak()
