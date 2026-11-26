@@ -52,7 +52,7 @@
 
 #let pattern-section(title, body) = {
   text(size: 1.1em, weight: "semibold")[#title]
-  linebreak()
+  v(1.2%, weak: true)
   body
 }
 
@@ -80,8 +80,10 @@
   v(0.6em)
 
   // description
-  for para in description {
-    par[#para]
+  if type(description) == array {
+    description.join(v(0.25em))
+  } else {
+    description
   }
 
   // Relation to WU or other pattern languages
